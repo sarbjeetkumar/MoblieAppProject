@@ -11,8 +11,14 @@
       <RootProperty Name="Background" />
       <RootProperty Name="Children" />
     </RootType>
+    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.ThemeResourceExtension" />
+    <RootType FullName="LearnYourAlphabet.GamePage" />
     <RootType FullName="Windows.UI.Xaml.Media.ImageBrush">
       <RootProperty Name="ImageSource" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.StackPanel">
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Children" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.Button">
       <RootProperty Name="Name" />
@@ -23,9 +29,9 @@
       <RootProperty Name="FontSize" />
       <RootProperty Name="FontWeight" />
       <RootProperty Name="FontStyle" />
-      <RootProperty Name="Margin" />
       <RootEvent Name="Click" />
     </RootType>
+    <RootType FullName="Windows.UI.Xaml.Shapes.Line" />
     <RootType FullName="LearnYourAlphabet.MainPage" />
   </Roots.RootTypes>
 </Roots>

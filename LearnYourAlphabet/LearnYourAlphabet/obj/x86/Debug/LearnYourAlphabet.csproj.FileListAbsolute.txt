@@ -390,3 +390,8 @@ C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabe
 C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\obj\x86\Debug\qualifiers.txt.intermediate
 C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\bin\x86\Debug\GamePage.xbf
+C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\obj\x86\Debug\GamePage.g.i.cs
+C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\obj\x86\Debug\GamePage.g.cs
+C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\obj\x86\Debug\GamePage.xaml
+C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\obj\x86\Debug\GamePage.xbf

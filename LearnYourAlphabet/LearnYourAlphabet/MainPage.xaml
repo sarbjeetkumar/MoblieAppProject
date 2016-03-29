@@ -12,8 +12,9 @@
         <Grid.Background >
             <ImageBrush ImageSource="/AppSoundsAndImages/Images/background.jpg"/>
         </Grid.Background>
-
-        <Button Name="StartButton" 
+        <StackPanel Margin="10,150,150,20">
+        <Button 
+                Name="StartButton" 
                 Content=" Press to Start" 
                 Background="LightGreen" 
                 BorderBrush="AliceBlue" 
@@ -21,10 +22,17 @@
                 FontSize="15"
                 FontWeight="SemiBold" 
                 FontStyle="Oblique"
-                Margin="350,100,80,50"
+               
                 Click="StartButton_Click"
                 />
-        <Button Name="ExitButton" 
+            <Line/>
+            <Line/>
+            <Line/>
+            <Line/>
+            <Line/>
+            <Line/>
+            <Button 
+                 Name="ExitButton" 
                 Content=" Press to Exit" 
                 Background="LightGreen" 
                 BorderBrush="AliceBlue" 
@@ -32,9 +40,9 @@
                 FontSize="15"
                 FontWeight="SemiBold" 
                 FontStyle="Oblique"
-                Margin="350,190,150,50"
                 Click="ExitButton_Click"
                 />
+        </StackPanel>
 
 
     </Grid>

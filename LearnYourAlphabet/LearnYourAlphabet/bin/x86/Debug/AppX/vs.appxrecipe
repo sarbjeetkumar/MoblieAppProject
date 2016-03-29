@@ -22,13 +22,13 @@
     <AppXManifest Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-03-29T22:35:25.636</Modified>
+      <Modified>2016-03-29T23:42:48.116</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\bin\x86\Debug\LearnYourAlphabet.exe">
       <PackagePath>entrypoint\LearnYourAlphabet.exe</PackagePath>
-      <Modified>2016-03-29T22:35:24.629</Modified>
+      <Modified>2016-03-29T23:42:47.007</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -734,7 +734,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\bin\x86\Debug\LearnYourAlphabet.xr.xml">
       <PackagePath>LearnYourAlphabet.xr.xml</PackagePath>
-      <Modified>2016-03-29T22:35:23.045</Modified>
+      <Modified>2016-03-29T23:42:21.236</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -742,11 +742,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-03-29T22:35:25.294</Modified>
+      <Modified>2016-03-29T23:42:47.822</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\bin\x86\Debug\Core\LearnYourAlphabet.exe">
       <PackagePath>LearnYourAlphabet.exe</PackagePath>
-      <Modified>2016-03-29T22:35:25.630</Modified>
+      <Modified>2016-03-29T23:42:48.113</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
