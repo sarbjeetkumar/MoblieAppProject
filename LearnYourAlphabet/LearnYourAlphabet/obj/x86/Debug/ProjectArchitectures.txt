@@ -1,1 +1,1 @@
-C:\Users\sarab Singh\Desktop\MobileApp\LearnYourAlphabet\LearnYourAlphabet\LearnYourAlphabet.csproj;x86
+C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\LearnYourAlphabet.csproj;x86

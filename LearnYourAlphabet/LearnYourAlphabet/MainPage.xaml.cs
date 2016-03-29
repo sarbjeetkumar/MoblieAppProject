@@ -26,5 +26,15 @@ namespace LearnYourAlphabet
         {
             this.InitializeComponent();
         }
+
+        private void StartButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void ExitButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

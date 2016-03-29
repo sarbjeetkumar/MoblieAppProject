@@ -11,10 +11,20 @@
       <RootProperty Name="Background" />
       <RootProperty Name="Children" />
     </RootType>
-    <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.ThemeResourceExtension" />
+    <RootType FullName="Windows.UI.Xaml.Media.ImageBrush">
+      <RootProperty Name="ImageSource" />
+    </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.Button">
       <RootProperty Name="Name" />
       <RootProperty Name="Content" />
+      <RootProperty Name="Background" />
+      <RootProperty Name="BorderBrush" />
+      <RootProperty Name="BorderThickness" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="FontWeight" />
+      <RootProperty Name="FontStyle" />
+      <RootProperty Name="Margin" />
+      <RootEvent Name="Click" />
     </RootType>
     <RootType FullName="LearnYourAlphabet.MainPage" />
   </Roots.RootTypes>
