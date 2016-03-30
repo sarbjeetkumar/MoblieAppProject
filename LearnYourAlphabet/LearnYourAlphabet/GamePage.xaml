@@ -9,5 +9,27 @@
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
+        <SplitView Grid.Row="1">
+
+            <ListView Name="MyListView"
+                      IsItemClickEnabled="True"
+                      ItemClick="MyListView_ItemClick"
+                    >
+                
+            </ListView>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+        </SplitView>
+
     </Grid>
 </Page>
