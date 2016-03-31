@@ -10,12 +10,12 @@
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
 
-        <TextBlock Name="ScoreTextBlock" Text="Score = "/>
+        <TextBlock x:ConnectionId='1' Name="ScoreTextBlock" Text="Score = "/>
         
         <SplitView Grid.Row="1">
-            <ListView Name="MyListView"
+            <ListView x:ConnectionId='2' Name="MyListView"
                       IsItemClickEnabled="True"
-                      ItemClick="MyListView_ItemClick"
+                                                      
                     >
                 
             </ListView>
@@ -35,3 +35,4 @@
 
     </Grid>
 </Page>
+

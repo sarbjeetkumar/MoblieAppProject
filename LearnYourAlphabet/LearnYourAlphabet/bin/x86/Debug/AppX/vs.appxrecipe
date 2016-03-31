@@ -22,13 +22,13 @@
     <AppXManifest Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-03-29T23:42:48.116</Modified>
+      <Modified>2016-03-30T23:59:26.795</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\bin\x86\Debug\LearnYourAlphabet.exe">
       <PackagePath>entrypoint\LearnYourAlphabet.exe</PackagePath>
-      <Modified>2016-03-29T23:42:47.007</Modified>
+      <Modified>2016-03-30T23:59:14.200</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -456,285 +456,285 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\ApplicationInsights.config">
       <PackagePath>ApplicationInsights.config</PackagePath>
-      <Modified>2016-03-29T20:46:48.397</Modified>
+      <Modified>2016-03-30T23:32:44.821</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\a.jpg">
       <PackagePath>AppSoundsAndImages\Images\a.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:47.827</Modified>
+      <Modified>2016-03-30T23:32:44.446</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\b.JPG">
       <PackagePath>AppSoundsAndImages\Images\b.JPG</PackagePath>
-      <Modified>2016-03-29T20:46:47.843</Modified>
+      <Modified>2016-03-30T23:32:44.446</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\background.jpg">
       <PackagePath>AppSoundsAndImages\Images\background.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:47.843</Modified>
+      <Modified>2016-03-30T23:32:44.446</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\c.jpg">
       <PackagePath>AppSoundsAndImages\Images\c.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:47.858</Modified>
+      <Modified>2016-03-30T23:32:44.446</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\coverPhoto.jpg">
       <PackagePath>AppSoundsAndImages\Images\coverPhoto.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:47.874</Modified>
+      <Modified>2016-03-30T23:32:44.461</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\coverphoto2.jpg">
       <PackagePath>AppSoundsAndImages\Images\coverphoto2.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:47.905</Modified>
+      <Modified>2016-03-30T23:32:44.492</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\coverPhoto3.jpg">
       <PackagePath>AppSoundsAndImages\Images\coverPhoto3.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:47.874</Modified>
+      <Modified>2016-03-30T23:32:44.461</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\d.jpg">
       <PackagePath>AppSoundsAndImages\Images\d.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:47.921</Modified>
+      <Modified>2016-03-30T23:32:44.508</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\e.jpg">
       <PackagePath>AppSoundsAndImages\Images\e.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:47.921</Modified>
+      <Modified>2016-03-30T23:32:44.539</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\f.jpg">
       <PackagePath>AppSoundsAndImages\Images\f.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:47.937</Modified>
+      <Modified>2016-03-30T23:32:44.539</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\g.jpg">
       <PackagePath>AppSoundsAndImages\Images\g.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:47.937</Modified>
+      <Modified>2016-03-30T23:32:44.555</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\h.jpg">
       <PackagePath>AppSoundsAndImages\Images\h.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:47.952</Modified>
+      <Modified>2016-03-30T23:32:44.571</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\i.jpg">
       <PackagePath>AppSoundsAndImages\Images\i.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:47.952</Modified>
+      <Modified>2016-03-30T23:32:44.571</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\j.jpg">
       <PackagePath>AppSoundsAndImages\Images\j.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:47.969</Modified>
+      <Modified>2016-03-30T23:32:44.571</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\k.jpg">
       <PackagePath>AppSoundsAndImages\Images\k.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:47.981</Modified>
+      <Modified>2016-03-30T23:32:44.586</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\l.jpg">
       <PackagePath>AppSoundsAndImages\Images\l.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:47.981</Modified>
+      <Modified>2016-03-30T23:32:44.586</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\m.jpg">
       <PackagePath>AppSoundsAndImages\Images\m.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:47.996</Modified>
+      <Modified>2016-03-30T23:32:44.602</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\mainImages.jpg">
       <PackagePath>AppSoundsAndImages\Images\mainImages.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:47.996</Modified>
+      <Modified>2016-03-30T23:32:44.602</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\n.jpg">
       <PackagePath>AppSoundsAndImages\Images\n.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:48.012</Modified>
+      <Modified>2016-03-30T23:32:44.602</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\o.jpg">
       <PackagePath>AppSoundsAndImages\Images\o.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:48.043</Modified>
+      <Modified>2016-03-30T23:32:44.617</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\p.jpg">
       <PackagePath>AppSoundsAndImages\Images\p.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:48.043</Modified>
+      <Modified>2016-03-30T23:32:44.617</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\q.jpg">
       <PackagePath>AppSoundsAndImages\Images\q.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:48.059</Modified>
+      <Modified>2016-03-30T23:32:44.617</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\r.jpg">
       <PackagePath>AppSoundsAndImages\Images\r.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:48.075</Modified>
+      <Modified>2016-03-30T23:32:44.633</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\s.jpg">
       <PackagePath>AppSoundsAndImages\Images\s.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:48.090</Modified>
+      <Modified>2016-03-30T23:32:44.633</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\t.jpg">
       <PackagePath>AppSoundsAndImages\Images\t.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:48.090</Modified>
+      <Modified>2016-03-30T23:32:44.633</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\u.jpg">
       <PackagePath>AppSoundsAndImages\Images\u.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:48.106</Modified>
+      <Modified>2016-03-30T23:32:44.649</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\v.jpg">
       <PackagePath>AppSoundsAndImages\Images\v.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:48.106</Modified>
+      <Modified>2016-03-30T23:32:44.649</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\w.JPG">
       <PackagePath>AppSoundsAndImages\Images\w.JPG</PackagePath>
-      <Modified>2016-03-29T20:46:48.121</Modified>
+      <Modified>2016-03-30T23:32:44.649</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\x.jpg">
       <PackagePath>AppSoundsAndImages\Images\x.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:48.137</Modified>
+      <Modified>2016-03-30T23:32:44.649</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\y.jpg">
       <PackagePath>AppSoundsAndImages\Images\y.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:48.137</Modified>
+      <Modified>2016-03-30T23:32:44.664</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\z.jpg">
       <PackagePath>AppSoundsAndImages\Images\z.jpg</PackagePath>
-      <Modified>2016-03-29T20:46:48.153</Modified>
+      <Modified>2016-03-30T23:32:44.664</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\a.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\a.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.153</Modified>
+      <Modified>2016-03-30T23:32:44.664</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\b.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\b.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.168</Modified>
+      <Modified>2016-03-30T23:32:44.680</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\c.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\c.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.168</Modified>
+      <Modified>2016-03-30T23:32:44.680</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\d.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\d.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.168</Modified>
+      <Modified>2016-03-30T23:32:44.696</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\e.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\e.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.184</Modified>
+      <Modified>2016-03-30T23:32:44.696</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\f.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\f.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.200</Modified>
+      <Modified>2016-03-30T23:32:44.711</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\g.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\g.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.200</Modified>
+      <Modified>2016-03-30T23:32:44.711</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\h.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\h.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.215</Modified>
+      <Modified>2016-03-30T23:32:44.727</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\i.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\i.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.262</Modified>
+      <Modified>2016-03-30T23:32:44.727</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\j.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\j.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.278</Modified>
+      <Modified>2016-03-30T23:32:44.727</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\k.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\k.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.309</Modified>
+      <Modified>2016-03-30T23:32:44.727</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\l.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\l.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.309</Modified>
+      <Modified>2016-03-30T23:32:44.742</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\m.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\m.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.309</Modified>
+      <Modified>2016-03-30T23:32:44.742</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\n.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\n.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.325</Modified>
+      <Modified>2016-03-30T23:32:44.742</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\o.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\o.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.325</Modified>
+      <Modified>2016-03-30T23:32:44.774</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\p.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\p.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.352</Modified>
+      <Modified>2016-03-30T23:32:44.774</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\q.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\q.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.356</Modified>
+      <Modified>2016-03-30T23:32:44.774</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\r.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\r.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.360</Modified>
+      <Modified>2016-03-30T23:32:44.774</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\s.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\s.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.366</Modified>
+      <Modified>2016-03-30T23:32:44.789</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\t.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\t.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.366</Modified>
+      <Modified>2016-03-30T23:32:44.789</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\u.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\u.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.366</Modified>
+      <Modified>2016-03-30T23:32:44.789</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\v.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\v.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.366</Modified>
+      <Modified>2016-03-30T23:32:44.789</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\w.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\w.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.381</Modified>
+      <Modified>2016-03-30T23:32:44.805</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\welldone.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\welldone.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.381</Modified>
+      <Modified>2016-03-30T23:32:44.805</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\welltry.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\welltry.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.381</Modified>
+      <Modified>2016-03-30T23:32:44.805</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\x.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\x.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.381</Modified>
+      <Modified>2016-03-30T23:32:44.805</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\y.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\y.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.397</Modified>
+      <Modified>2016-03-30T23:32:44.821</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\z.mp3">
       <PackagePath>AppSoundsAndImages\mySounds\z.mp3</PackagePath>
-      <Modified>2016-03-29T20:46:48.397</Modified>
+      <Modified>2016-03-30T23:32:44.821</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2016-03-29T20:46:48.444</Modified>
+      <Modified>2016-03-30T23:32:45.008</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2016-03-29T20:46:48.397</Modified>
+      <Modified>2016-03-30T23:32:44.821</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-03-29T20:46:48.397</Modified>
+      <Modified>2016-03-30T23:32:44.821</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-03-29T20:46:48.397</Modified>
+      <Modified>2016-03-30T23:32:44.821</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-03-29T20:46:48.397</Modified>
+      <Modified>2016-03-30T23:32:44.821</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-03-29T20:46:48.412</Modified>
+      <Modified>2016-03-30T23:32:44.836</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-03-29T20:46:48.412</Modified>
+      <Modified>2016-03-30T23:32:44.836</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-03-29T20:46:48.412</Modified>
+      <Modified>2016-03-30T23:32:44.836</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\bin\x86\Debug\LearnYourAlphabet.xr.xml">
       <PackagePath>LearnYourAlphabet.xr.xml</PackagePath>
-      <Modified>2016-03-29T23:42:21.236</Modified>
+      <Modified>2016-03-30T23:59:13.294</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -742,11 +742,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-03-29T23:42:47.822</Modified>
+      <Modified>2016-03-30T23:59:23.904</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\bin\x86\Debug\Core\LearnYourAlphabet.exe">
       <PackagePath>LearnYourAlphabet.exe</PackagePath>
-      <Modified>2016-03-29T23:42:48.113</Modified>
+      <Modified>2016-03-30T23:59:26.748</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

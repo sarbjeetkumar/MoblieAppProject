@@ -26,5 +26,10 @@ namespace LearnYourAlphabet
         {
             this.InitializeComponent();
         }
+
+        private void MyListView_ItemClick(object sender, ItemClickEventArgs e)
+        {
+
+        }
     }
 }
