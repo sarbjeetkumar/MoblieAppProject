@@ -10,16 +10,49 @@
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
 
+
+        <TextBlock Name="LetterTextBlock"
+                   Text="Learn Your Alphabet"
+                   FontSize="20"
+                   FontStretch="SemiExpanded"
+                   FontStyle="Italic"
+                   Foreground="GreenYellow"
+                   />
+
+        <Line/>
+        <Line/>
+        <Line/>
+        <Line/>
+
         <TextBlock Name="ScoreTextBlock" Text="Score = "/>
         
         <SplitView Grid.Row="1">
-            <ListView Name="MyListView"
+            <SplitView.Pane>
+                <ListView Name="MyListView"
                       IsItemClickEnabled="True"
                       ItemClick="MyListView_ItemClick"
                     >
-                
-            </ListView>
-            
+                </ListView>
+            </SplitView.Pane>
+
+            <SplitView.Content>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+
+                    <MediaElement Name="MyMediaElement"
+                                  AutoPlay="True"/>
+
+                       
+
+
+
+
+                </Grid>
+            </SplitView.Content>
             
             
             
