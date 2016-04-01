@@ -31,5 +31,15 @@ namespace LearnYourAlphabet
         {
 
         }
+
+        private void MyButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void AlphabetSoundGridView_ItemClick(object sender, ItemClickEventArgs e)
+        {
+
+        }
     }
 }

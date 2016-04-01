@@ -11,13 +11,7 @@
 
 
 
-        <TextBlock Name="LetterTextBlock"
-                   Text="Learn Your Alphabet"
-                   FontSize="20"
-                   FontStretch="SemiExpanded"
-                   FontStyle="Italic"
-                   Foreground="GreenYellow"
-                   />
+       
 
         <Line/>
         <Line/>
@@ -46,23 +40,38 @@
                     <MediaElement Name="MyMediaElement"
                                   AutoPlay="True"/>
 
-                       
+                    <TextBlock Name="LetterTextBlock"
+                                Margin="20,0,0,0"
+                                Text="Learn Your Alphabets"
+                                FontSize="25"
+                                FontStyle="Oblique"
+                                Foreground="Blue">
+                    </TextBlock>
+                    <GridView Grid.Row="1" Margin="30,20,20,20"
+                              Name="AlphabetSoundGridView"
+                              SelectionMode="None"
+                              IsItemClickEnabled="True"
+                              ItemClick="AlphabetSoundGridView_ItemClick"
+                              >
 
-
-
-
+                        <GridView.ItemTemplate>
+                            <DataTemplate x:DataType="data:Sound">
+                                <Image Name="MyImage"
+                                        Height="110"
+                                       Width="100"
+                                       >
+                                    
+                                </Image>
+                                
+                            </DataTemplate>
+           
+                            
+                        </GridView.ItemTemplate>  
+                        
+                        
+                    </GridView>
                 </Grid>
             </SplitView.Content>
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
 
         </SplitView>
 
