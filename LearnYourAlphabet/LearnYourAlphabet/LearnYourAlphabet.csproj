@@ -105,6 +105,7 @@
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
     <Compile Include="Models\Sound.cs" />
+    <Compile Include="Models\SoundDecide.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -147,8 +148,6 @@
     <Content Include="AppSoundsAndImages\Images\MyAbcd\background.jpg" />
     <Content Include="AppSoundsAndImages\Images\MyAbcd\c.jpg" />
     <Content Include="AppSoundsAndImages\Images\MyAbcd\coverPhoto.jpg" />
-    <Content Include="AppSoundsAndImages\Images\MyAbcd\coverphoto2.jpg" />
-    <Content Include="AppSoundsAndImages\Images\MyAbcd\coverPhoto3.jpg" />
     <Content Include="AppSoundsAndImages\Images\MyAbcd\d.jpg" />
     <Content Include="AppSoundsAndImages\Images\MyAbcd\e.jpg" />
     <Content Include="AppSoundsAndImages\Images\MyAbcd\f.jpg" />

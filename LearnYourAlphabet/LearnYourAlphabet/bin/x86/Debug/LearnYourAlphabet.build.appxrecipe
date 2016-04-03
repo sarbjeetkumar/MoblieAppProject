@@ -342,182 +342,176 @@
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\ApplicationInsights.config">
       <PackagePath>ApplicationInsights.config</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\a.jpg">
-      <PackagePath>AppSoundsAndImages\Images\a.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\a.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\a.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\b.JPG">
-      <PackagePath>AppSoundsAndImages\Images\b.JPG</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\b.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\b.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\background.jpg">
-      <PackagePath>AppSoundsAndImages\Images\background.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\c.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\c.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\c.jpg">
-      <PackagePath>AppSoundsAndImages\Images\c.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\d.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\d.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\coverPhoto.jpg">
-      <PackagePath>AppSoundsAndImages\Images\coverPhoto.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\e.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\e.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\coverphoto2.jpg">
-      <PackagePath>AppSoundsAndImages\Images\coverphoto2.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\f.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\f.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\coverPhoto3.jpg">
-      <PackagePath>AppSoundsAndImages\Images\coverPhoto3.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\g.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\g.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\d.jpg">
-      <PackagePath>AppSoundsAndImages\Images\d.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\h.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\h.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\e.jpg">
-      <PackagePath>AppSoundsAndImages\Images\e.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\i.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\i.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\f.jpg">
-      <PackagePath>AppSoundsAndImages\Images\f.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\j.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\j.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\g.jpg">
-      <PackagePath>AppSoundsAndImages\Images\g.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\k.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\k.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\h.jpg">
-      <PackagePath>AppSoundsAndImages\Images\h.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\l.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\l.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\i.jpg">
-      <PackagePath>AppSoundsAndImages\Images\i.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\m.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\m.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\j.jpg">
-      <PackagePath>AppSoundsAndImages\Images\j.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\n.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\n.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\k.jpg">
-      <PackagePath>AppSoundsAndImages\Images\k.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\o.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\o.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\l.jpg">
-      <PackagePath>AppSoundsAndImages\Images\l.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\p.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\p.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\m.jpg">
-      <PackagePath>AppSoundsAndImages\Images\m.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\q.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\q.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\mainImages.jpg">
-      <PackagePath>AppSoundsAndImages\Images\mainImages.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\r.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\r.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\n.jpg">
-      <PackagePath>AppSoundsAndImages\Images\n.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\s.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\s.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\o.jpg">
-      <PackagePath>AppSoundsAndImages\Images\o.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\t.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\t.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\p.jpg">
-      <PackagePath>AppSoundsAndImages\Images\p.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\u.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\u.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\q.jpg">
-      <PackagePath>AppSoundsAndImages\Images\q.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\v.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\v.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\r.jpg">
-      <PackagePath>AppSoundsAndImages\Images\r.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\w.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\w.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\s.jpg">
-      <PackagePath>AppSoundsAndImages\Images\s.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\welldone.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\welldone.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\t.jpg">
-      <PackagePath>AppSoundsAndImages\Images\t.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\welltry.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\welltry.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\u.jpg">
-      <PackagePath>AppSoundsAndImages\Images\u.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\x.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\x.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\v.jpg">
-      <PackagePath>AppSoundsAndImages\Images\v.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\y.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\y.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\w.JPG">
-      <PackagePath>AppSoundsAndImages\Images\w.JPG</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Audio\MyAbcd\z.mp3">
+      <PackagePath>AppSoundsAndImages\Audio\MyAbcd\z.mp3</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\x.jpg">
-      <PackagePath>AppSoundsAndImages\Images\x.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\a.jpg">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\a.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\y.jpg">
-      <PackagePath>AppSoundsAndImages\Images\y.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\b.JPG">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\b.JPG</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\z.jpg">
-      <PackagePath>AppSoundsAndImages\Images\z.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\background.jpg">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\background.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\a.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\a.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\c.jpg">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\c.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\b.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\b.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\coverPhoto.jpg">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\coverPhoto.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\c.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\c.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\d.jpg">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\d.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\d.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\d.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\e.jpg">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\e.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\e.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\e.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\f.jpg">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\f.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\f.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\f.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\g.jpg">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\g.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\g.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\g.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\h.jpg">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\h.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\h.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\h.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\i.jpg">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\i.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\i.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\i.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\j.jpg">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\j.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\j.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\j.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\k.jpg">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\k.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\k.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\k.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\l.jpg">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\l.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\l.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\l.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\m.jpg">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\m.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\m.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\m.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\mainImages.jpg">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\mainImages.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\n.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\n.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\n.jpg">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\n.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\o.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\o.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\o.jpg">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\o.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\p.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\p.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\p.jpg">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\p.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\q.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\q.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\q.jpg">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\q.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\r.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\r.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\r.jpg">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\r.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\s.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\s.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\s.jpg">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\s.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\t.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\t.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\t.jpg">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\t.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\u.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\u.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\u.jpg">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\u.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\v.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\v.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\v.jpg">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\v.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\w.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\w.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\w.JPG">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\w.JPG</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\welldone.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\welldone.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\x.jpg">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\x.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\welltry.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\welltry.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\y.jpg">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\y.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\x.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\x.mp3</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\y.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\y.mp3</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\mySounds\z.mp3">
-      <PackagePath>AppSoundsAndImages\mySounds\z.mp3</PackagePath>
+    <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\AppSoundsAndImages\Images\MyAbcd\z.jpg">
+      <PackagePath>AppSoundsAndImages\Images\MyAbcd\z.jpg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>

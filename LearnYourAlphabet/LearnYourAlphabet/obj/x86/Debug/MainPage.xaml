@@ -5,12 +5,13 @@
     xmlns:local="using:LearnYourAlphabet"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+     xmlns:data="using:LearnYourAlphabet.Models"
     mc:Ignorable="d">
 
     <Grid>
 
         <Grid.Background >
-            <ImageBrush ImageSource="/AppSoundsAndImages/Images/background.jpg"/>
+            <ImageBrush ImageSource="/AppSoundsAndImages/Images/MyAbcd/background.jpg"/>
         </Grid.Background>
         <StackPanel Margin="10,150,150,20">
         <Button x:ConnectionId='1' 
