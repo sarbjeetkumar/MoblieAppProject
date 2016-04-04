@@ -67,7 +67,9 @@ namespace LearnYourAlphabet
             }
 
             Grid g = sarab;
+          
             g.Visibility = Visibility.Collapsed;
+
         }
         public bool isCorrect()
         {

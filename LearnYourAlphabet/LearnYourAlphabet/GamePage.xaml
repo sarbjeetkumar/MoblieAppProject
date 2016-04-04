@@ -8,7 +8,7 @@
     xmlns:data="using:LearnYourAlphabet.Models"
     mc:Ignorable="d">
 
-    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Grid  Name="SarabGrid" Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
 
         <Line/>

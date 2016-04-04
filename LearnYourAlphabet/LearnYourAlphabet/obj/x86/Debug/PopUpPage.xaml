@@ -9,7 +9,7 @@
 
     <Grid x:ConnectionId='1' Name="sarab">
 
-        <StackPanel x:ConnectionId='2' x:Name="LayoutRoot"  Width="480" Height="480"  Background="Azure">
+        <StackPanel x:ConnectionId='2' x:Name="LayoutRoot" Height="2000" Width="2000" Background="AliceBlue">
             <TextBlock x:ConnectionId='3' Name="myTextBlock"  FontSize="25"  Text="Which Letter Sound Was That ?"/>
             <TextBox x:ConnectionId='4' x:Name="tbx" />
             <Button x:ConnectionId='5' x:Name="btnOK"                    Height="30" Width="Auto"  Content="OK"/>

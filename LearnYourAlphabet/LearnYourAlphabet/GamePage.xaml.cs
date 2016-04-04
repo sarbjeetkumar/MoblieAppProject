@@ -56,10 +56,14 @@ namespace LearnYourAlphabet
             //await dialog2.ShowAsync();
             //var user =  myTextBox.ToString();
             Popup popup = new Popup();
-           
+
+
+           popup.MaxHeight = 2000;
+           popup.MaxWidth = 2000;
             //popup.VerticalOffset = 100;
-            
-            
+         
+
+          
             PopUpPage control = new PopUpPage(lett);
             
             popup.Child = control;

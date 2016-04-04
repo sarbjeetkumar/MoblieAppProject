@@ -8,7 +8,7 @@
     xmlns:data="using:LearnYourAlphabet.Models"
     mc:Ignorable="d">
 
-    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Grid x:ConnectionId='2'  Name="SarabGrid" Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
 
         <Line/>
@@ -17,7 +17,7 @@
         <Line/>
 
         <RelativePanel >
-            <Button x:ConnectionId='8' Name="BackButton" 
+            <Button x:ConnectionId='9' Name="BackButton" 
                     RelativePanel.AlignLeftWithPanel="True"
                                             
                     FontFamily="Segoe Mdl2 Assets"
@@ -29,12 +29,12 @@
            
         </RelativePanel>
         
-        <SplitView x:ConnectionId='2' Grid.Row="1"
+        <SplitView x:ConnectionId='3' Grid.Row="1"
                    Name="mySplitView">
             
             
             <SplitView.Pane>
-                <ListView x:ConnectionId='3' Name="MyListView"
+                <ListView x:ConnectionId='4' Name="MyListView"
                       IsItemClickEnabled="True"
                                                       
                     >
@@ -49,10 +49,10 @@
                     </Grid.RowDefinitions>
 
 
-                    <MediaElement x:ConnectionId='4' Name="MyMediaElement"
+                    <MediaElement x:ConnectionId='5' Name="MyMediaElement"
                                   AutoPlay="True"/>
 
-                    <TextBlock x:ConnectionId='5' Name="LetterTextBlock"
+                    <TextBlock x:ConnectionId='6' Name="LetterTextBlock"
                                 Margin="20,0,0,0"
                                 Text="Learn Your Alphabets"
                                 FontSize="25"
@@ -63,7 +63,7 @@
 
 
 
-                    <GridView x:ConnectionId='6' Grid.Row="1" Margin="30,20,20,20"
+                    <GridView x:ConnectionId='7' Grid.Row="1" Margin="30,20,20,20"
                               Name="AlphabetSoundGridView"
                               SelectionMode="None"
                               IsItemClickEnabled="True"
@@ -74,7 +74,7 @@
 
                         <GridView.ItemTemplate>
                             <DataTemplate                        >
-                                <Image x:ConnectionId='7' Name="MyImage"
+                                <Image x:ConnectionId='8' Name="MyImage"
                                         Height="110"
                                        Width="100"
                                                                   

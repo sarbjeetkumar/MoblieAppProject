@@ -9,7 +9,7 @@
 
     <Grid Name="sarab">
 
-        <StackPanel x:Name="LayoutRoot"  Width="480" Height="480"  Background="Azure">
+        <StackPanel x:Name="LayoutRoot" Height="2000" Width="2000" Background="AliceBlue">
             <TextBlock Name="myTextBlock"  FontSize="25"  Text="Which Letter Sound Was That ?"/>
             <TextBox x:Name="tbx" />
             <Button x:Name="btnOK" Click="verifyLett" Height="30" Width="Auto"  Content="OK"/>
