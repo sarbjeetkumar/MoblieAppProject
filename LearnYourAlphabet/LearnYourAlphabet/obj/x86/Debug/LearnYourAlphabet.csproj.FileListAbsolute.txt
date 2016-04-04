@@ -395,3 +395,8 @@ C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabe
 C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\obj\x86\Debug\GamePage.g.cs
 C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\obj\x86\Debug\GamePage.xaml
 C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\obj\x86\Debug\GamePage.xbf
+C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\bin\x86\Debug\PopUpPage.xbf
+C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\obj\x86\Debug\PopUpPage.g.i.cs
+C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\obj\x86\Debug\PopUpPage.g.cs
+C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\obj\x86\Debug\PopUpPage.xaml
+C:\Users\sarab Singh\Desktop\MoblieAppProject\LearnYourAlphabet\LearnYourAlphabet\obj\x86\Debug\PopUpPage.xbf

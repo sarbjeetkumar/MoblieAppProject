@@ -132,17 +132,19 @@ namespace LearnYourAlphabet.LearnYourAlphabet_XamlTypeInfo
 
         private void InitTypeTables()
         {
-            _typeNameTable = new string[4];
+            _typeNameTable = new string[5];
             _typeNameTable[0] = "LearnYourAlphabet.GamePage";
             _typeNameTable[1] = "Windows.UI.Xaml.Controls.Page";
             _typeNameTable[2] = "Windows.UI.Xaml.Controls.UserControl";
             _typeNameTable[3] = "LearnYourAlphabet.MainPage";
+            _typeNameTable[4] = "LearnYourAlphabet.PopUpPage";
 
-            _typeTable = new global::System.Type[4];
+            _typeTable = new global::System.Type[5];
             _typeTable[0] = typeof(global::LearnYourAlphabet.GamePage);
             _typeTable[1] = typeof(global::Windows.UI.Xaml.Controls.Page);
             _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
             _typeTable[3] = typeof(global::LearnYourAlphabet.MainPage);
+            _typeTable[4] = typeof(global::LearnYourAlphabet.PopUpPage);
         }
 
         private int LookupTypeIndexByName(string typeName)
@@ -208,6 +210,12 @@ namespace LearnYourAlphabet.LearnYourAlphabet_XamlTypeInfo
             case 3:   //  LearnYourAlphabet.MainPage
                 userType = new global::LearnYourAlphabet.LearnYourAlphabet_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
                 userType.Activator = Activate_3_MainPage;
+                userType.SetIsLocalType();
+                xamlType = userType;
+                break;
+
+            case 4:   //  LearnYourAlphabet.PopUpPage
+                userType = new global::LearnYourAlphabet.LearnYourAlphabet_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;

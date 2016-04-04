@@ -45,6 +45,29 @@ namespace LearnYourAlphabet
         private void AlphabetSoundGridView_ItemClick(object sender, ItemClickEventArgs e)
         {
 
+            var sound = (Sound)e.ClickedItem;
+
+            MyMediaElement.Source = new Uri(this.BaseUri, sound.AudioFile); //playing the sound
+
+            // var dialog = new MessageDialog(sound.AudioFile.ToString());
+
+            String lett = sound.Name.ToString();
+            //String lett = sound.AudioFile.ToString().Substring(0,sound.a)
+            //await dialog2.ShowAsync();
+            //var user =  myTextBox.ToString();
+            Popup popup = new Popup();
+           
+            //popup.VerticalOffset = 100;
+            
+            
+            PopUpPage control = new PopUpPage(lett);
+            
+            popup.Child = control;
+            popup.IsOpen = true;
+           
+
+
+
         }
 
         private void BackButton_Click(object sender, RoutedEventArgs e)
